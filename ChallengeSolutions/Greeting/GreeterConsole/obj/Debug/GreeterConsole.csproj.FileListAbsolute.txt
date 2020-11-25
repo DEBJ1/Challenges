@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\bin\Debug\GreeterConsole.exe.config
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\bin\Debug\GreeterConsole.exe
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\bin\Debug\GreeterConsole.pdb
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\obj\Debug\GreeterConsole.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\obj\Debug\GreeterConsole.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\obj\Debug\GreeterConsole.exe
+C:\ElevenFiftyProjects\Challenges\ChallengeSolutions\Greeting\GreeterConsole\obj\Debug\GreeterConsole.pdb
